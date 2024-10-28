@@ -1,0 +1,30 @@
+.event-card {
+    background: linear-gradient(135deg, #ff6b6b, #ff8e53);
+    color: #fff;
+    padding: 20px;
+    border-radius: 12px;
+    cursor: pointer;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 180px;
+    text-align: left;
+  }
+  
+  .event-card h3 {
+    font-size: 1.5em;
+    margin-bottom: 8px;
+  }
+  
+  .event-card p {
+    font-size: 0.9em;
+    opacity: 0.8;
+  }
+  
+  .event-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+  }
+  

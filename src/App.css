@@ -1,0 +1,22 @@
+.App {
+  font-family: 'Arial', sans-serif;
+  text-align: center;
+  padding: 20px;
+  background: #f9fafc;
+}
+
+h1 {
+  font-size: 2.5em;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.event-list input {
+  width: 100%;
+  max-width: 400px;
+  padding: 12px;
+  margin-bottom: 30px;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+  font-size: 1em;
+}

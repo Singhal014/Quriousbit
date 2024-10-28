@@ -1,0 +1,48 @@
+
+[
+  {
+    "id": 1,
+    "name": "Music Festival",
+    "date": "2024-11-10",
+    "time": "5:00 PM - 10:00 PM",
+    "location": "Central Park, NYC",
+    "description": "Join us for an evening of live music performances by top artists!",
+    "image": "/assets/music-festival.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Food Carnival",
+    "date": "2024-12-05",
+    "time": "11:00 AM - 8:00 PM",
+    "location": "City Square, Boston",
+    "description": "Explore flavors from around the world at our annual food carnival.",
+    "image": "/food-carnival.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Arts",
+    "date": "2024-11-10",
+    "time": "5:00 PM - 10:00 PM",
+    "location": "Central Park, NYC",
+    "description": "Join us for an evening of live music performances by top artists!",
+    "image": "/assets/music-festival.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Rangoli Competition",
+    "date": "2024-11-10",
+    "time": "5:00 PM - 10:00 PM",
+    "location": "Central Park, NYC",
+    "description": "Join us for an evening of live music performances by top artists!",
+    "image": "/assets/music-festival.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Film Festival",
+    "date": "2024-11-10",
+    "time": "5:00 PM - 10:00 PM",
+    "location": "Central Park, NYC",
+    "description": "Join us for an evening of live music performances by top artists!",
+    "image": "/assets/music-festival.jpg"
+  }
+]
